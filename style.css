@@ -1,0 +1,23 @@
+.body_backgorund 
+{
+    background-image:url(birthdaycake.jpg);
+    background-position:center;
+    background-size:cover;
+}
+
+#greeting {
+    margin-top: 120px;
+    font-family: 'Shalimar', cursive;
+    font-size:50px;
+}
+
+#btn1 {
+    height : 100px ;
+    width : 300px ;
+    margin-top: 150px;
+    /*background-color:hotpink;*/
+    background-color: rgb(240, 60, 129);
+    color:wheat;
+    font-size: larger;
+    cursor: pointer;
+}
